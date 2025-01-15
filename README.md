@@ -1,4 +1,4 @@
-descargamos el faraday abrimos en el visual estunido el archivo yml y ponemos terminal y escribimos 
+descargamos el faraday abrimos en el visual studio code el archivo yml y ponemos terminal y escribimos 
 
 
 docker compose up
