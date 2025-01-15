@@ -6,5 +6,5 @@ docker compose up
 
 se nos instalara el faraday para el faraday en usuarios se es faraday y la contraseña aparece en docker enla parte faraday-app
 
-para poner integrar manualmente las herraminetas 
+para poder integrar manualmente las herraminetas 
 [manual.pdf](https://github.com/user-attachments/files/18424763/manual.pdf)
