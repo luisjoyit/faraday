@@ -1,7 +1,7 @@
 descargamos el faraday abrimos en el visual estunido el archivo yml y ponemos terminal y escribimos 
 
 
-docker compse up
+docker compose up
 
 
 se nos instalara el faraday para el faraday en usuarios se es faraday y la contraseña aparece en docker enla parte faraday-app
