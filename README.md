@@ -10,11 +10,15 @@ para poder integrar manualmente las herraminetas
 [manual.pdf](https://github.com/user-attachments/files/18424763/manual.pdf)
 
 
+
+
 NMAP
 
 link de descarga https://nmap.org/
 
 manual [nmap.pdf](https://github.com/user-attachments/files/18491187/nmap.pdf)
+
+
 
 
 NESSUS 
@@ -28,6 +32,8 @@ primero ponemos nessus esencial y rellenas lo que te pide
 despues esperas q te cargen los pluyin 
 
 manual[nessus.pdf](https://github.com/user-attachments/files/18491289/nessus.pdf)
+
+
 
 
 OPENVAS
@@ -46,6 +52,9 @@ verificas
 docker ps
 
 manual [openvas.pdf](https://github.com/user-attachments/files/18491338/openvas.pdf)
+
+
+
 
 ZAP
 
