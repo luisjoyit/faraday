@@ -37,17 +37,23 @@ manual[nessus.pdf](https://github.com/user-attachments/files/18491289/nessus.pdf
 
 
 OPENVAS
+
 se descarga en un docker entoces primeor descagas docker y creas un contenedor 
 
 par que tengas la imagen de openvas abres terminal
 
+
 docker pull greenbone/gvm
+
 
 Ejecutar OpenVAS con Docker
 
+
 docker run -d -p 8080:9392 --name openvas greenbone/gvm
 
+
 verificas
+
 
 docker ps
 
