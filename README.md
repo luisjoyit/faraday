@@ -12,6 +12,7 @@ para poder integrar manualmente las herraminetas
 
 
 
+
 NMAP
 
 link de descarga https://nmap.org/
@@ -63,6 +64,19 @@ manual [openvas.pdf](https://github.com/user-attachments/files/18491338/openvas.
 
 
 ZAP
+
+link https://www.zaproxy.org/download/
+
+manual[zap.pdf](https://github.com/user-attachments/files/18491523/zap.pdf)
+
+
+
+
+
+exel de las herramientas usadas 
+[faraday.xlsx](https://github.com/user-attachments/files/18491553/faraday.xlsx)
+
+
 
 
 
